@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b31c64420a5b0d743954840fa0584f88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canInteractText: {fileID: 5949720062235830672, guid: 02fd706516b4c4641964ee7e30fcd046,
+      type: 3}
+  - blinker: {fileID: 4855772856774198767, guid: 2b97b980cdb844640b5d6d64831b1467,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
